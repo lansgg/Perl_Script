@@ -50,7 +50,7 @@ my $send_user='monitor@cc.com.cn';
 #smtp address
 my $smtp_server='10.xx.xx.x';
 #define mail subject
-$Subject = "git-m6-$currentTime";
+$Subject = "git-$currentTime";
 #address
 my @address=qw(ff@cc.com.cn);
 
